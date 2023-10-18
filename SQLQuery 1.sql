@@ -137,6 +137,8 @@ select sum(adults + children) as total_occupants, Property from hotels
 group by property
 order by total_occupants desc;
 
+select avg(adults + children) as avg_occupants from hotels;
+
 --checking the correlation between bookings and occupants w.r.t room type
 select count(reservation_id) as total_bookings, sum(adults + children) as total_occupants, room_type from hotels
 group by room_type
