@@ -3,9 +3,12 @@ Analysis of a hospitality company data and deriving insights for the stakeholder
 
 Stakeholder - Owner of hospitality company who want to analyze his hotel chain
 
-Tools for analysis - SQL, MS Excel                                                                                        Total Occupants -	4,93,429
-                                                                                                                          Total Revenue	  - $10,87,25,881.80 
-                                                                                                                          Total Bookings  -	98,569
+Tools for analysis - SQL, MS Excel    
+
+Total Occupants -	4,93,429
+Total Revenue	  - $10,87,25,881.80 
+Total Bookings  -	98,569
+
 Questions - 
 1. Which room types are most popular and attract most bookings ?
 2. How is the revenue generated as per room type, property type ? How can we improve it ? 
